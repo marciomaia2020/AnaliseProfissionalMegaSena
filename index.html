@@ -885,7 +885,7 @@
                     break;
             }
             
-            resultadosOrdenados.slice(0, 100).forEach((resultado, index) => {
+            resultadosOrdenados.forEach((resultado, index) => {
                 const sequencias = encontrarSequencias(resultado.numerosOrdemCrescente);
                 
                 // Encontrar repetições do concurso anterior
