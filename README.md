@@ -118,3 +118,5 @@ Carregamento em lotes de 10 para não sobrecarregar a API
 Barra de progresso precisa
 Tratamento robusto de erros
 A aplicação agora carrega TODOS os concursos da Mega-Sena (do 1 ao 2902+) com as cores verdes autênticas da escala fornecida! 🎰🟢
+
+.
